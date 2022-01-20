@@ -38,7 +38,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 # Favorite Things About CS193
 
--Easy
--Uselful
--Helpful
+- Easy
+- Uselful
+- Helpful
 
