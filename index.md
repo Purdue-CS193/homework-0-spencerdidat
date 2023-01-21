@@ -1,5 +1,5 @@
-# SPencer Didat's FIrst CS 193 Homework
+# Spencer Didat's FIrst CS 193 Homework
 
--its easy
--the TAs are
--Its Practical
+-Its easy
+-The TAs are awesome
+-Its practical
